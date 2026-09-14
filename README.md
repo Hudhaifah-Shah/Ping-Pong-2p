@@ -6,6 +6,9 @@ A classic 2-player Ping Pong game built with Python. This project highlights Obj
 - **Dynamic Win Conditions:** Asks players for a target score before launching the game.
 - **Local Two-Player Support:** Simultaneous key-listening allowing fluid movement for both players.
 
+![Alt Text Description](./Screenshot_20260914_192447.png)
+![Alt Text Description](./Screenshot_20260914_192404.png)
+
 ## Controls
 
 | Player | Movement | Keys |
